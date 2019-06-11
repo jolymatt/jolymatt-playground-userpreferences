@@ -1,0 +1,1 @@
+http://localhost:8080/userpreferences/swagger-ui.html#/user-preference-controller
